@@ -1,7 +1,7 @@
 # Olá, meu nome é Beatriz Menegatti ✨
 
-Profissional em transição de carreira para área de programação. 
-Atualmente cursando graduação em Análise e Desenvolvimento de Sistemas e disposta a novas oportunidades!! 
+**Profissional em transição de carreira para área de programação. 
+Atualmente cursando graduação em Análise e Desenvolvimento de Sistemas e disposta a novas oportunidades!!** 
 
 
 
